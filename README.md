@@ -18,3 +18,6 @@ Java program to play and solve the N-Queens problem
     - 3.b.) If we can put Queen in said [row,column] can make a possible answer return true.
     - 3.c.) If we put Queen at [row,column] and that doesn't make any possible answer remove said [row,column] out from set of answer and repeat a.) to try with another row.
     - If we have done all the row in said columns and that doesn't provided any possible answer keep backtracking to change the column and repeat for each row.
+
+# REF.
+- https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
